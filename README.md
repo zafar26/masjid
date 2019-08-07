@@ -9,7 +9,7 @@ A web application
 # FEATURES
 
 * users can register/login
-* users can choose bus seat
+* users can view expenditure of masjid-organisation
 
 # MADE WITH
 
